@@ -5,6 +5,10 @@
 #include "pch.h"
 #include "Game.h"
 
+
+//
+//Tesuto!!!!!
+//
 extern void ExitGame();
 
 using namespace DirectX;
